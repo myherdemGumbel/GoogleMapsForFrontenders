@@ -1,0 +1,32 @@
+[
+    {
+        "position": {
+            "lat": -33.91721,
+            "lng": 151.2263
+        },
+        "type": "epc",
+        "header": "Referans Basligi",
+        "text": "Referans html içerik uzun yazılabilir.<b>bold olabilir</b>",
+        "image": "referans.jpg"
+    },
+    {
+        "position": {
+            "lat": -33.91539,
+            "lng": 151.2282
+        },
+        "type": "operation",
+        "header": "Referans Basligi 1",
+        "text": "Referans html içerik 1",
+        "image": "referans.jpg"
+    },
+    {
+        "position": {
+            "lat": -33.91747,
+            "lng": 151.22912
+        },
+        "type": "project",
+        "header": "Referans Basligi 2",
+        "text": "Referans html içerik 2",
+        "image": "referans.jpg"
+    }
+]
